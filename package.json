@@ -1,0 +1,10 @@
+{
+    "name": "com.freakshowstudio.unirx.async",
+    "displayName": "UniRx.Async",
+    "version": "6.2.2",
+    "unity": "2019.1",
+    "description": "Reactive Extensions for Unity",
+    "keywords": ["rx", "reactive", "async", "await"],
+    "category": "Scripting",
+    "dependencies": { }
+}
